@@ -1,0 +1,5 @@
+{
+  "name": "학습 성향 진단 테스트",
+  "description": "간단한 질문과 답변을 통해 학생들의 학습 성향을 알아보고, MBTI 기반의 맞춤 학습 유형과 전략을 제시하는 진단 검사 앱입니다.",
+  "requestFramePermissions": []
+}
